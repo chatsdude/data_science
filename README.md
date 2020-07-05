@@ -1,1 +1,1 @@
-This repository contains the data science projects that I have done so far.
+This repository contains the data analysis/science projects that I have done so far.
